@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 
+  {% include head.html %}
   <head>
     <style>
       ul{
@@ -9,8 +10,7 @@
     </style>
   </head>
   
-  {% include head.html %}
-
+  
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}" bgcolor="#000000">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
