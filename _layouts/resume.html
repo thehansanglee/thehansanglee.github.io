@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
 
+  <head>
+    <style>
+      ul{
+        color: white;
+      }
+    </style>
+  </head>
+  
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}" bgcolor="#000000">
-    <p style="color: #E5E5E5; ">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
@@ -240,7 +247,6 @@
 
     </div>
 
-    </p>
   </body>
 
 </html>
