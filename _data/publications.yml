@@ -1,9 +1,0 @@
-# Publications
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- publication: Classification of Focal Liver Lesions in CT Images Using Convolutional Neural Networks with Lesion Information Augmented Patches and Synthetic Data Augmentation
-  authors: Hansang Lee, Haeil Lee, Helen Hong, Heejin Bae, Joon Seok Lim, Junmo Kim
-  journal: Medical Physics 48(9): 5029-5046 (2021)
-  url: "https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15118"
-  # description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
